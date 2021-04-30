@@ -1,6 +1,6 @@
 # about RTOS
 
-
+[RTOS wiki](https://en.wikipedia.org/wiki/Real-time_operating_system)
 [about RTOS](https://www.freertos.org/about-RTOS.html)
 
 GPOS
